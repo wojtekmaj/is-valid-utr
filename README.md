@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/v/is-valid-utr.svg)](https://www.npmjs.com/package/is-valid-utr) ![downloads](https://img.shields.io/npm/dt/is-valid-utr.svg) [![CI](https://github.com/wojtekmaj/is-valid-utr/workflows/CI/badge.svg)](https://github.com/wojtekmaj/is-valid-utr/actions)
+[![npm](https://img.shields.io/npm/v/is-valid-utr.svg)](https://www.npmjs.com/package/is-valid-utr) ![downloads](https://img.shields.io/npm/dt/is-valid-utr.svg) [![CI](https://github.com/wojtekmaj/is-valid-utr/actions/workflows/ci.yml/badge.svg)](https://github.com/wojtekmaj/is-valid-utr/actions)
 
 # Is-Valid-UTR
 
