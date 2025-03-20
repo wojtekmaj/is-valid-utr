@@ -1,6 +1,6 @@
 {
   "name": "is-valid-utr",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Check if a number is a valid Unique Taxpayer Reference (UTR)",
   "type": "module",
   "sideEffects": false,
