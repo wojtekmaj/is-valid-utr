@@ -1,4 +1,5 @@
 import { describe, expect, it } from 'vitest';
+
 import isValidUTR from './index.js';
 
 describe('isValidUTR', () => {
